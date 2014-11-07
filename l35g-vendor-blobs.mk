@@ -81,7 +81,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/l35g/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
     vendor/lge/l35g/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/lge/l35g/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
-    vendor/lge/l35g/proprietary/lib/libOmxIttiamVdec.so:system/lib/libOmxIttiamVdec.so \
     vendor/lge/l35g/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
     vendor/lge/l35g/proprietary/lib/libOmxEvrcHwDec.so:system/lib/libOmxEvrcHwDec.so \
     vendor/lge/l35g/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
